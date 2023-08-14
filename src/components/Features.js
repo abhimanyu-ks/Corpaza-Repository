@@ -50,7 +50,7 @@ export default function Features() {
               <h3 class="block text-lg font-semibold text-gray-800 dark:text-white">Web Design and Development</h3>
             </div>
           </div>
-          <p class="text-gray-600 dark:text-gray-400">Creating visually appealing websites that align with the brand's identity and goals.</p>
+          <p class="text-gray-600 dark:text-gray-400">Creating visually appealing websites that align with the brand&apos;s identity and goals.</p>
         </div>
         {/* <!-- End Card --> */}
     
@@ -82,7 +82,7 @@ export default function Features() {
               <h3 class="block text-lg font-semibold text-gray-800 dark:text-white">Local SEO</h3>
             </div>
           </div>
-          <p class="text-gray-600 dark:text-gray-400">Local SEO focuses on optimizing a business's online presence to target local customers. </p>
+          <p class="text-gray-600 dark:text-gray-400">Local SEO focuses on optimizing a business&apos;s online presence to target local customers. </p>
         </div>
         {/* <!-- End Card --> */}
     

@@ -8,7 +8,7 @@ export default function Hero() {
   <div class="grid md:grid-cols-2 gap-4 md:gap-8 xl:gap-20 md:items-center">
     <div>
       <h1 class="block text-3xl font-bold text-gray-800 sm:text-4xl lg:text-6xl lg:leading-tight dark:text-white">Grow your <span class="text-purple-600">Business </span>with Digital Marketing </h1>
-      <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Every brand has a unique story to tell, and we're here to help you narrate it. Our creative minds work tirelessly to uncover your brand's essence and create a digital identity that resonates with your target audience.</p>
+      <p class="mt-3 text-lg text-gray-800 dark:text-gray-400">Every brand has a unique story to tell, and we&apos;re here to help you narrate it. Our creative minds work tirelessly to uncover your brand&apos;s essence and create a digital identity that resonates with your target audience.</p>
 
       {/* <!-- Buttons --> */}
       <div class="my-7 grid gap-3 w-full sm:inline-flex">

@@ -8,7 +8,7 @@ import React from 'react'
 
 export default function index() {
   return (
-    <div>
+    <div className='bg-white'>
       <NavBar/>
       <Hero/>
       <About/>
