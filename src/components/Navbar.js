@@ -59,7 +59,7 @@ export default function NavBar() {
             ))}
           </div>
           <div className="hidden lg:flex lg:flex-1 lg:justify-end">
-            <Link href="#home"className="flex-none rounded-md bg-purple-600 px-2 py-1 text-sm font-semibold leading-6 text-white">
+            <Link href="https://wa.me/7034289684"className="flex-none rounded-md bg-purple-600 px-2 py-1 text-sm font-semibold leading-6 text-white">
                 Get in Touch <span aria-hidden="true">&rarr;</span>
              
             </Link>
@@ -96,7 +96,7 @@ export default function NavBar() {
                   ))}
                 </div>
                 <div className="py-6">
-                  <Link href="#home" className="-mx-3 flex-none rounded-md  bg-purple-600 px-3 py-2.5 text-base font-semibold leading-7 text-white">
+                  <Link href="#https://wa.me/7034289684" className="-mx-3 flex-none rounded-md  bg-purple-600 px-3 py-2.5 text-base font-semibold leading-7 text-white">
                      Get in Touch
                   </Link>
                 </div>
