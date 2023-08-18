@@ -15,7 +15,7 @@ export default function SocialMedia() {
                 <p class=" text-gray-500 font-bold text-lg "> Marketing budget less than <span className='text-purple-500'>10000 INR</span> </p>
                 <p class=" text-gray-500 text-lg ">Best option for Businesses building Local presence. </p>
                 <div class="flex justify-center items-baseline my-8">
-                    <span class="mr-2 text-5xl font-extrabold">3000 INR</span>
+                    <span class="mr-2 text-5xl font-extrabold">4000 INR</span>
                     <span class="text-black text-2xl font-bold">month</span>
                 </div>
            
@@ -67,7 +67,7 @@ export default function SocialMedia() {
                 <p class=" text-gray-500 font-bold text-lg "> Marketing budget more than <span className='text-purple-500'>10000 INR</span> </p>
                 <p class=" text-gray-500 text-lg ">For wide Digital Presence and High Conversions</p>
                 <div class="flex justify-center items-baseline my-8">
-                    <span class="mr-2 text-5xl font-extrabold">30%</span>
+                    <span class="mr-2 text-5xl font-extrabold">40%</span>
                     <span class="text-black text-2xl font-bold">of Marketing Budget</span>
                 </div>
            
