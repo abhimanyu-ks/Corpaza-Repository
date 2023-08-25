@@ -13,7 +13,10 @@ export default function index() {
       <Hero/>
       <About/>
       <Features/>
+      <section id='pricing'>
       <SocialMedia/>
+      </section>
+  
       <Footer/>
       
     </div>
