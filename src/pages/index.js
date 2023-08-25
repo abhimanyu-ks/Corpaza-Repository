@@ -12,7 +12,9 @@ export default function index() {
       <NavBar/>
       <Hero/>
       <About/>
+      <section id='features'>
       <Features/>
+      </section>
       <section id='pricing'>
       <SocialMedia/>
       </section>
