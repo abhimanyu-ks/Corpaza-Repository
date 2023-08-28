@@ -5,9 +5,9 @@ import Link from 'next/link';
 
 const navigation = [
   { name: 'Home', href: '#home' },
-  { name: 'Products', href: '#products' },
   { name: 'Features', href: '#features' },
   { name: 'Pricing', href: '#pricing' },
+  { name: 'Contact Us', href: '#contactform' },
 
 ];
 
