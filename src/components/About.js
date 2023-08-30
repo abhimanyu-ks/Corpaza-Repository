@@ -7,7 +7,9 @@ export default function About() {
       {/* <!-- Grid --> */}
       <div class="md:grid md:grid-cols-2 md:items-center md:gap-12 xl:gap-32">
         <div>
-          <img class="rounded-xl" src="./images/boy.jpg " alt="Image Description" style={{ maxWidth: '700px', maxHeight: '800px' }}/>
+          <img class="rounded-xl w-full h-auto md:max-w-lg" src="./images/boy.jpg " alt="Image Description" style={{ maxWidth: '700px', maxHeight: '800px',fit:"crop" }}/>
+          <div class="absolute inset-0 -z-[1] bg-gradient-to-tr from-gray-200 via-white/0 to-white/0 w-full h-full rounded-md mt-4 -mb-4 mr-4 -ml-4 lg:mt-6 lg:-mb-6 lg:mr-6 lg:-ml-6 "></div>
+
         </div>
         {/* <!-- End Col --> */}
     
