@@ -21,7 +21,7 @@ export default function index() {
       <Features/>
       </section>
       <section id='pricing'>
-      <SocialMedia/>
+      {/* <SocialMedia/> */}
       </section>
       <section id='contactform'>
       <Contact />
