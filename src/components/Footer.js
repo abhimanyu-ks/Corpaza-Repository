@@ -20,7 +20,7 @@ export default function Footer() {
                           <a href="https://corpaza.com/" class="hover:underline">Corpaza</a>
                       </li>
                       <li>
-                          <a href="https://tailwindcss.com/" class="hover:underline">Tailwind CSS</a>
+                          {/* <a href="https://www.instagram.com/corpaza_/" class="hover:underline">Instagram</a> */}
                       </li>
                   </ul>
               </div>
@@ -28,10 +28,10 @@ export default function Footer() {
                   <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase ">Follow us</h2>
                   <ul class="text-gray-500  font-medium">
                       <li class="mb-4">
-                          <a href="https://github.com/" class="hover:underline ">Github</a>
+                          <a href="https://www.instagram.com/corpaza_/" class="hover:underline ">Instagram</a>
                       </li>
                       <li>
-                          <a href="https://discord.gg/" class="hover:underline">Discord</a>
+                          <a href="https://www.facebook.com/profile.php?id=61550257856442" class="hover:underline">Facebook</a>
                       </li>
                   </ul>
               </div>
