@@ -18,16 +18,20 @@ export default function Contact() {
                             <h2 class="text-gray-800 text-base md:text-lg leading-8 tracking-wider">We believe digital innovation is at the heart of every business success</h2>
                             <div class="mt-4 md:mt-8">
                                 <h2 class="text-sm md:text-base text-purple-700 font-semibold">Address</h2>
-                                <h2 class="text-gray-800 text-base md:text-lg leading-8 tracking-wider mt-2">Office: Pallippat Building, Near Lulu mall, Nethaji Nagar, Edappally , kochi , Ernakulam , kerala 682024</h2>
+                                <h2 class="text-gray-800 text-base md:text-lg leading-8 tracking-wider mt-2">Office: Corpaza, 21/551B, Kalamassery, Seaport-Airport Rd.,682021,Ernakulam Dist.,Kerala,India </h2>
                             </div>
                             <div class="mt-4 md:mt-8">
                                 <h2 class="text-sm md:text-base text-purple-700 font-semibold">Contact</h2>
-                                <h2 class="text-gray-800 text-base md:text-lg leading-8 tracking-wider mt-2">+91 89 21 664 238(Phone)</h2>
-                                <h2 class="text-gray-800 text-base md:text-lg leading-8 tracking-wider mt-2">+91 70 34 289 684 (Cell)</h2>
+                                <h2 class="text-gray-800 text-base md:text-lg leading-8 tracking-wider mt-2">+91 89 21 664 238 </h2>
+                                <h2 class="text-gray-800 text-base md:text-lg leading-8 tracking-wider mt-2">+91 84 31 418 221 </h2>
+                                <h2 class="text-gray-800 text-base md:text-lg leading-8 tracking-wider mt-2">+91 70 34 289 684 </h2>
+                                
+
                             </div>
                             <div class="mt-4 md:mt-8">
                                 <h2 class="text-sm md:text-base text-purple-700 font-semibold">Email</h2>
-                                <h2 class="text-gray-800 text-base md:text-lg leading-8 tracking-wider mt-2">corpaza.com@gmail.com</h2>
+
+                                <h2 class="text-gray-800 text-base md:text-lg leading-8 tracking-wider mt-2">hello@corpaza.com</h2>
                             </div>
                         </div>
                     </div>
