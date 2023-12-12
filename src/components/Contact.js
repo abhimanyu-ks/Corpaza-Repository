@@ -23,7 +23,6 @@ export default function Contact() {
                             <div class="mt-4 md:mt-8">
                                 <h2 class="text-sm md:text-base text-purple-700 font-semibold">Contact</h2>
                                 <h2 class="text-gray-800 text-base md:text-lg leading-8 tracking-wider mt-2">+91 89 21 664 238 </h2>
-                                <h2 class="text-gray-800 text-base md:text-lg leading-8 tracking-wider mt-2">+91 84 31 418 221 </h2>
                                 <h2 class="text-gray-800 text-base md:text-lg leading-8 tracking-wider mt-2">+91 70 34 289 684 </h2>
                                 
 
